@@ -22,8 +22,8 @@ The model is a CNN designed for text classification:
 
 ## 📊 Dataset
 
-- Texts extracted from works by Kant and Freud
-- Preprocessed and cleaned using custom NLP pipeline
+- The dataset consists of Spanish-language excerpts from translated works by Kant and Freud.
+- Texts were extracted from digitized editions and preprocessed using a custom NLP pipeline.
 - Labels: binary classification (Kant / Freud)
 
 > Note: The raw dataset is not included due to copyright considerations.
